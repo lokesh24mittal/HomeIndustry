@@ -44,7 +44,7 @@ const NavBar = () => {
   return (
     <nav className="w-full bg-green-600 p-4 shadow-md flex justify-between items-center">
       <div
-        className="text-white text-2xl font-bold "
+        className="text-white text-2xl font-bold"
         onClick={() => navigate("/")}
       >
         My Business
